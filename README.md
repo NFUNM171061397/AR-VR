@@ -66,4 +66,4 @@
 
 * 点击build，添加文件名，保存路径，用夜神模拟器打开即可预览。
 
-### [录屏演示成品（视频后30秒）](https://github.com/NFUNM171061397/VR-week01/blob/master/3-22-VRAR%E5%BD%95%E5%88%B6%E4%BD%9C%E4%B8%9A.mp4)
+### [3-22-VR/AR录制作业（演示成果在视频后30秒）](https://github.com/NFUNM171061397/VR-week01/blob/master/3-22-VRAR%E5%BD%95%E5%88%B6%E4%BD%9C%E4%B8%9A.mp4)
