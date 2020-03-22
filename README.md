@@ -1,7 +1,7 @@
 # AR-VR-week01-Unity3d安装操作
 
 ### 安装Unity3d开发平台
-* 按照步骤依次安装
+* 按照步骤依次进行安装
 
 ![Unity3d开发平台](https://github.com/NFUNM171061397/VR-week01/blob/master/images/1.png)
 ![Unity3d开发平台](https://github.com/NFUNM171061397/VR-week01/blob/master/images/2.png)
